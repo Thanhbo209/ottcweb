@@ -9,7 +9,7 @@ import CapCut from '../picture/1664284918capcut-icon-png.webp';
 import TikTok from '../picture/pngimg.com - tiktok_PNG22.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper/modules';
-import Logo2 from '../picture/z5613817656547_42d24881a4d6585a9c53fdef763508cf.jpg';
+
 import dividerImg from '../picture/gold-luxury-line-png.webp';
 import Typewriter from 'typewriter-effect';
 import 'swiper/css';
@@ -33,7 +33,7 @@ import ScrollReveal from 'scrollreveal';
 import Zalo1 from '../picture/z5673257561264_71a40834f3efbb626e3566d1fad899e0.jpg';
 import Zalo2 from '../picture/z5673257602984_068d987b0dcd2a111897e2d3684f4aa6.jpg';
 import Zalo3 from '../picture/z5673258688949_4b6fe0ed6adc6673c2311d724ccee89d.jpg';
-import verifiedBadge from '../picture/107727-verified-badge-facebook-png-image-high-quality.png'; 
+
 
 const MainPage = () => {
   const [isActive, setIsActive] = useState(false);
